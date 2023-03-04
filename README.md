@@ -1,1 +1,1 @@
-# DGroupQuize
+Pharmacy Project
